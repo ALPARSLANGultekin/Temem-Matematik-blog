@@ -1,0 +1,21 @@
+# Temel-Matematik-blog
+Determinant, bir matrisin özelliklerini belirleyen sayıdır. Bir matrisin determinantı, 
+matrisin satırları ve sütunları üzerinde yapılan işlemler sonucu elde edilen sayıdır.
+
+Örnek olarak, aşağıdaki 2x2'lik matrisin determinantını bulalım:
+
+[3 5]
+[4 6]
+
+Bu matrisin determinantı, aşağıdaki formül ile bulunur:
+
+det(A) = 36 - 54
+
+Bu matris için değerler a=3, b=2, c=1 ve d=4 olsun. Bu durumda determinant şu şekilde bulunur:
+
+det(A) = 3*6 - 5*4 = -2
+
+Bu örnekte, 2x2'lik matrisin determinantı 10 olarak bulunmuştur. Determinant,
+matrislerin özelliklerini belirleyen önemli bir kavramdır ve matematikte ve bilgisayar bilimlerinde sıklıkla kullanılır.
+
+wwww.patika.dev
